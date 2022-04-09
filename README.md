@@ -1,14 +1,17 @@
 ## Hi there. I'm Korhan...👋
 
 
-- 🔭 I’m currently working on frontend and mobile app development (JavaScript | React | React Native)
-- 🔭 I’m currently working on frontend and mobile app development (JavaScript | React | Vue | React Native)
-- 🌱 I’m currently learning backend development (Node.js | MongoDB | Django)
+- 🔭 I’m currently working on frontend and mobile app development (JavaScript | React | )
+- 🔭 I’m currently working on frontend and mobile app development (JavaScript | React | )
+- 🌱 I’m currently learning backend development (Node.js | MongoDB | Express.js)
 - 💬 Ask me about anything that you want to learn 
+- 💬 Talk to me about JavaScript, React, HTML, CSS, Node.js, MongoDB, Express.js
 
 ## 👨👩 Social
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esat-yasar/)
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:esatyasar91@gmail.com)
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/korhan-tokg%C3%B6z-559525229/)
+[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:korhan.tokgoz92@gmail.com)
+<a href = 'https://twitter.com/KorhanTokgoz'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+
 ## 💻 Frontend
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png" alt="html" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css" height="60"/> </a>
