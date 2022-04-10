@@ -28,7 +28,7 @@
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="https://image.pngaaa.com/822/1100822-middle.png" alt="gitHub" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="30"/> </a> 
-<a href="#" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fpostman-t%25C3%25BCrkiye%2Fpostman-ogren%2Fhome&psig=AOvVaw2oaJpQYQ_ftXvrBAnD8G-O&ust=1649708214623000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCKjKhZioivcCFQAAAAAdAAAAABAD" alt="postman" height="50"/> </a> 
+<a href="#" target="_blank"> <img src="https://aws1.discourse-cdn.com/business6/uploads/getpostman/original/2X/f/f5d14a3d8749083c5c3cc184fe20db5576f80752.svg" alt="postman" height="50"/> </a> 
 </p>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Korhan92&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
